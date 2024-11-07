@@ -164,3 +164,11 @@ body {
     color: #f9faf8;
     background-color: #3882f6;   
 }
+
+/* footer */
+.footer {
+    background-color: #1f2937;
+    padding: 30px;
+    text-align: center;
+    color: #e5e7eb;
+}
